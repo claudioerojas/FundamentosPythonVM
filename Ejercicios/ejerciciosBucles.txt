@@ -1,0 +1,12 @@
+
+ -1. Escribir un programa que pregunte al usuario cuántas asignaturas quiere ingresar y que se almacenen en una lista; cada asignatura debe ingresarse al final de la lista y al final debe mostrar la lista en pantalla.  Utilizar un ciclo For
+
+-2.  Escribir un programa que pregunte al usuario asignaturas a ingresar y que se almacenen en una lista; cada asignatura debe ingresarse al final de la lista y al final debe mostrar la lista en pantalla,  Este programa se debe detener cuando el usuario digite que no desea ingrear más asignaturas
+
+-3. Escribir un programa que pregunte al usuario su edad y muestre por pantalla todos los años que ha cumplido (desde 1 hasta su edad).
+
+-4. Escribir un programa que pida al usuario un número entero positivo y muestre por pantalla la cuenta atrás desde ese número hasta cero separados por comas.
+
+-5. Escribir un programa que pida al usuario una palabra, la almacene en una lista y luego muestre por pantalla una a una las letras de la palabra introducida
+
+-6. Escribe un algoritmo que lea 10 números e imprima cuantos son positivos, cuantos negativos y cuantos neutros(0); si en algun momento el número ingresado es 4, el programa debe terminar sin aviso
